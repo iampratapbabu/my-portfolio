@@ -23,13 +23,18 @@ Link {
 
 a:link {
   text-decoration: none;
-  color: #fc5185;
+  color:#5aa897;
 }
 
 h4{
-  color:#51c4d3;
+  color:#00adb5;
+  font-weight: 650;
 }
 
+h5{
+  color:#00adb5;
+  font-weight: bold;
+}
 
 .main-div{
 
