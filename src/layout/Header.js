@@ -4,7 +4,6 @@ import img from '../images/img.png';
 
 
 //styles
-import '../styles/header.css'
 
 const Header = () =>{
   return(

@@ -1,5 +1,4 @@
 import React,{Fragment} from 'react';
-import '../styles/projects.css'
 
 const Contact = () =>{
   return(
@@ -16,7 +15,7 @@ const Contact = () =>{
     <p>This is the contact file here it is used to show contact details</p>
     <p>This is the contact file here it is used to show contact details</p>
     <p>This is the contact file here it is used to show contact details</p>
-    
+
 
     </Fragment>
   );
