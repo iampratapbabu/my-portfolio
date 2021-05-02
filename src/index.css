@@ -17,6 +17,20 @@ code {
     monospace;
 }
 
+Link {
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+  color: #fc5185;
+}
+
+h4{
+  color:#51c4d3;
+}
+
+
 .main-div{
 
 }
@@ -32,4 +46,8 @@ code {
   background-image: url("https://wallpaperaccess.com/full/1924578.jpg");
   background-attachment: fixed;
 
+}
+
+.intro-text{
+  font-size:1.5rem;
 }

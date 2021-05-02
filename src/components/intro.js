@@ -5,16 +5,14 @@ const Intro = () =>{
     <Fragment>
 
 
-    <h2>Intro file</h2>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
+    <h2>Introduction</h2>
+    <hr/>
+    <p className="intro-text">I am Tej Pratap, currently  I am pursuing Bachelor of Technology from
+    <a href="https://abes.ac.in"> ABES Engineering College</a> in Electronics &
+    Communication Engineering Department. I have completed my Intermediate from
+    SSR Public School</p>
+    <p className="intro-text">I am Begineer Level Full-Stack Web developer specialized in MERN stack</p>
+
 
 
     </Fragment>

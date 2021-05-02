@@ -10,7 +10,8 @@ const Header = () =>{
     <Fragment>
 <div>
     <img alt="admin-img" class="block-img" src={img} width="150" height="180"/>
-      <h4><Link to='/'>Tej Pratap</Link></h4>
+      <h4><Link to='/'>TEJ PRATAP</Link></h4>
+      <hr/>
       <ul>
         <li><Link className="btn btn-light"  to="/projects">Projects</Link></li>
         <li><Link className="btn btn-light"  to="/education">Education</Link></li>

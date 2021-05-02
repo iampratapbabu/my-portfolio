@@ -5,7 +5,7 @@ const Footer = () =>{
     <Fragment>
     <hr/>
     <div className="container">
-    Developed By : Tej Pratap
+    <h5>Developed By : Tej Pratap</h5>
     </div>
 
     </Fragment>
