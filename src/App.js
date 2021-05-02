@@ -41,7 +41,7 @@ const App = () => {
 
    </div>
 
-<marquee><h3>Main Body File in which i will show youtube content</h3></marquee>
+<h3>Main Body File in which i will show youtube content</h3>
     </div>
     <Footer/>
     </Fragment>
