@@ -22,11 +22,11 @@ const App = () => {
 
    <div class="row shadow p-3 mb-5 bg-body rounded">
 
-     <div class="col-3 nav-header">
+     <div class="col-sm-8 col-lg-3 nav-header">
        <Header/>
      </div>
 
-     <div class="col-9 nav-content">
+     <div class="col-sm-8 col-lg-9 nav-content">
      <Switch>
          <Route exact path='/' component={Intro} />
          <Route exact path='/projects' component={Project} />
