@@ -17,19 +17,31 @@ import Skills from './components/skills';
 const App = () => {
   return (
     <Fragment>
-    <Header/>
+
     <div className="container">
-    <h3>Main Body File</h3>
 
-<Switch>
-    <Route exact path='/' component={Intro} />
-    <Route exact path='/projects' component={Project} />
-    <Route exact path='/certifications' component={Certifications} />
+   <div class="row shadow p-3 mb-5 bg-body rounded">
 
-    <Route exact path='/skills' component={Skills} />
-    <Route exact path='/education' component={Education} />
-    <Route exact path='/contact' component={Contact} />
-</Switch>
+     <div class="col-3 nav-header">
+       <Header/>
+     </div>
+
+     <div class="col-9 nav-content">
+     <Switch>
+         <Route exact path='/' component={Intro} />
+         <Route exact path='/projects' component={Project} />
+         <Route exact path='/certifications' component={Certifications} />
+
+         <Route exact path='/skills' component={Skills} />
+         <Route exact path='/education' component={Education} />
+         <Route exact path='/contact' component={Contact} />
+     </Switch>
+
+     </div>
+
+   </div>
+
+<marquee><h3>Main Body File in which i will show youtube content</h3></marquee>
     </div>
     <Footer/>
     </Fragment>

@@ -4,10 +4,23 @@ import '../styles/certifications.css'
 const Certifications = () =>{
   return(
     <Fragment>
-    <hr/>
-    <div className="container">
-    Certifications file
-    </div>
+
+
+    <h3>Certifications file</h3>
+
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+    <p>#certificate-1</p>
+
 
     </Fragment>
   );

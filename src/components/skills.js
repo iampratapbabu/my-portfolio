@@ -4,10 +4,19 @@ import '../styles/projects.css'
 const Skills = () =>{
   return(
     <Fragment>
-    <hr/>
-    <div className="container">
-    Skills file
-    </div>
+
+
+    <h2>Skills file</h2>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    
 
     </Fragment>
   );

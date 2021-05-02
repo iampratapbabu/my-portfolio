@@ -4,10 +4,19 @@ import '../styles/projects.css'
 const Intro = () =>{
   return(
     <Fragment>
-    <hr/>
-    <div className="container">
-    Intro file
-    </div>
+
+
+    <h2>Intro file</h2>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+    <p>This is the contact file here it is used to show contact details</p>
+  
 
     </Fragment>
   );
