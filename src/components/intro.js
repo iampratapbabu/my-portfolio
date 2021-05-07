@@ -1,9 +1,7 @@
 import React,{Fragment} from 'react';
 
 
-const handleClick = () =>{
-window.location.href="/contact";
-}
+
 
 const Intro = () =>{
   return(
@@ -17,7 +15,6 @@ const Intro = () =>{
     Communication Engineering Department. I have completed my Intermediate from
     SSR Public School</p>
     <p className="intro-text">I am Begineer Level Full-Stack Web developer specialized in MERN stack</p>
-    <button onClick={handleClick}>click Me</button>
 
 
     </Fragment>
