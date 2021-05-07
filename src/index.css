@@ -67,17 +67,22 @@ h5{
   font-size:1.5rem;
 }
 
-.progress-bar{
-  display: inline-block;
-  height:20px;
-  width:60px;
-  background-color: red;
+.icon-1{
+  margin-left:1rem;
+  color:#0077b5;
 }
 
-.progress{
-  display: inline-block;
-  height: 20px;
-  width:60px;
-  background-color: black;
+.icon-2{
+  color:#de8971;
+margin-left:1rem;
+}
 
+.icon-3{
+  margin-left:1rem;
+  color:red;
+}
+
+.icon-4{
+  margin-left:1rem;
+  
 }

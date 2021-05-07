@@ -5,17 +5,11 @@ const Contact = () =>{
     <Fragment>
 
 
-    <h2>Contact file</h2>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-    <p>This is the contact file here it is used to show contact details</p>
-
+    <h2>Contact</h2>
+    <hr/>
+    <i class="fab fa-linkedin fa-2x"></i>
+    <br/>
+    <i class="fas fa-envelope fa-2x"></i>
 
     </Fragment>
   );
