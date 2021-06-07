@@ -1,6 +1,6 @@
 import React,{Fragment} from 'react';
 import {Link} from 'react-router-dom';
-import img from '../images/img.png';
+import img from '../images/img.jpg';
 
 
 //styles
