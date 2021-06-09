@@ -1,19 +1,20 @@
 * {
-margin-top:0.5rem;
-padding:0;
+  margin-top: 0.5rem;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+html {
+  background-color: #fff;
+  color: #555;
+  font-family: "Lato", "Arial", sans-serif;
+  font-weight: 300;
+
+  text-rendering: optimizeLegibility;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
@@ -23,66 +24,64 @@ Link {
 
 a:link {
   text-decoration: none;
-  color:#5aa897;
+  color: #5aa897;
 }
 
-h2{
-  color:blue;
+h2 {
+  font-family: "Lato";
+  color: #046582;
   font-weight: 550;
-  font-size:3rem;
-
+  font-size: 3rem;
 }
-h4{
-  color:#00adb5;
+h4 {
+  color: #00adb5;
   font-weight: 650;
 }
 
-h5{
-  color:#00adb5;
+h5 {
+  color: #00adb5;
   font-weight: bold;
 }
 
-.h5-custom{
+.h5-custom {
   display: inline-block;
 }
 
-.main-div{
-
+.main-div {
 }
 
-.block-img{
-  border-radius:45%;
+.block-img {
+  border-radius: 45%;
   border: 3px solid #3fc1c9;
   box-shadow: 3px 7px #3fc1c9;
 }
 
-.nav-header,.nav-content{
-  border:2px solid grey;
+.nav-header,
+.nav-content {
+  border: 2px solid grey;
   background-image: url("https://wallpaperaccess.com/full/1924578.jpg");
   background-attachment: fixed;
-
 }
 
-.intro-text{
-  font-size:1.5rem;
+.intro-text {
+  font-size: 1.5rem;
 }
 
-.icon-1{
-  margin-left:1rem;
-  color:#0077b5;
+.icon-1 {
+  margin-left: 1rem;
+  color: #0077b5;
 }
 
-.icon-2{
-  color:#de8971;
-margin-left:1rem;
+.icon-2 {
+  color: #de8971;
+  margin-left: 1rem;
 }
 
-.icon-3{
-  margin-left:1rem;
-  color:red;
+.icon-3 {
+  margin-left: 1rem;
+  color: red;
 }
 
-.icon-4{
-  margin-left:1rem;
-  
+.icon-4 {
+  margin-left: 1rem;
 }

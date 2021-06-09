@@ -12,6 +12,7 @@ import Contact from './components/contact';
 import Education from './components/education';
 import Intro from './components/intro';
 import Skills from './components/skills';
+import Videos from './components/Videos';
 
 
 const App = () => {
@@ -35,15 +36,16 @@ const App = () => {
          <Route exact path='/skills' component={Skills} />
          <Route exact path='/education' component={Education} />
          <Route exact path='/contact' component={Contact} />
+         <Route exact path='/videos' component={Videos} />
      </Switch>
 
      </div>
-
+    
    </div>
 
-<h3>Main Body File in which i will show youtube content</h3>
+
     </div>
-    <Footer/>
+    
     </Fragment>
   );
 }

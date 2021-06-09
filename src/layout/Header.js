@@ -9,7 +9,7 @@ const Header = () =>{
   return(
     <Fragment>
 <div>
-    <img alt="admin-img" class="block-img" src={img} width="150" height="180"/>
+    <img alt="admin-img" class="block-img" src={img} width="170" height="180"/>
       <h4><Link to='/'>TEJ PRATAP</Link></h4>
       <a href="https://www.linkedin.com/in/pratapbabu/"><i class="fab fa-linkedin fa-2x icon-1"></i></a>
       <a href="mailto:kumarpratap.1447@gmail.com"><i class="fas fa-envelope fa-2x icon-2"></i></a>
@@ -21,6 +21,7 @@ const Header = () =>{
         <li><Link className="btn btn-light"  to="/education">Education</Link></li>
         <li><Link className="btn btn-light"  to="/certifications">Certifications</Link></li>
         <li><Link className="btn btn-light"  to="/skills">Skills</Link></li>
+        <li><Link className="btn btn-light"  to="/videos">Videos</Link></li>
 
       </ul>
   </div>
